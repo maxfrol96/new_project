@@ -1,6 +1,7 @@
 def words_up(word):
     """
     Ну что-то произойдет
+    А еще я создаю конфликт
     """
     return word.upper()
 
